@@ -23,6 +23,7 @@ MDM scripts:
 	• Import-DeviceConfig.ps1 = Prompts for authentication user, and prompts for path to JSON file for import
 	
 Export script:
+
 	• Export-Policies.ps1 = Prompts for authentication user, then exports all the policies to JSON files.
 
 The original article which corresponds with these scripts is located here: https://www.itpromentor.com/setup-intune
